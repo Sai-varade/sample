@@ -4,11 +4,11 @@ app = FastAPI()
 
 @app.get('/')
 def home():
-    return{'message':'Website is Workingsssssssssssssaaaaaaaaaaaaaaaaaaassssss'}
+    return{'message':'25'}
 
 
 @app.get('/Sai')
 def set():
-    return{'message':'Sai Sunil Varade'}
+    return{'message':'75'}
 
 
