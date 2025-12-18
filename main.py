@@ -9,6 +9,6 @@ def home():
 
 @app.get('/Sai')
 def set():
-    return{'message':'75'}
+    return{'message':'750'}
 
 
